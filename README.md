@@ -13,18 +13,18 @@ This simple Currency Converter application allows users to convert between diffe
 ## Usage
 
 1. **Clone the Repository**:
-   ``python
+   ```python
    git clone https://github.com/your-username/currency-converter-app.git
    cd currency-converter-app
-   ``
+   ```
 2. **Install Dependencies**:
-   ``python
+   ```python
    pip install -r requirements.txt
-   ``
+   ```
 3. **Run the Application**:
-   ``python
+   ```python
    python currency_converter.py
-   ``
+   ```
 4. **Input Information**:
    - Enter the amount to convert.
    - Select the source and target currencies from the dropdown lists.
@@ -34,3 +34,39 @@ This simple Currency Converter application allows users to convert between diffe
    - Use the "Swap Currencies" button to quickly switch between the source and target currencies.
 6. **Handle Errors**:
    - The application provides informative error messages for invalid inputs or network-related issues.
+
+## Contributing
+
+We welcome contributions from the community! To contribute to the Currency Converter App, follow these steps:
+
+1. **Fork the Repository**:
+   - Click the "Fork" button at the top-right corner of this repository to create your own copy.
+2. **Clone Your Fork**:
+   ```python
+   git clone https://github.com/your-username/currency-converter-app.git
+   cd currency-converter-app
+   ```
+3. **Create a Branch**:
+   - Create a new branch for your feature or bug fix.
+     ```python
+     git checkout -b feature-name
+     ```
+4. **Make Changes**:
+   - Implement your changes or additions to the code.
+5. **Test Your Changes**:
+   - Ensure that your modifications work as intended.
+6. **Push Changes**:
+   - Push your changes to your fork.
+     ```python
+     git push origin feature-name
+     ```
+7. **Create a Pull Request**:
+   - Open a pull request from your fork to the main repository.
+8. **Discuss and Review**:
+   - Engage in discussions, address feedback, and iterate on your changes.
+9. **Merge**:
+   - Once your changes are approved, they will be merged into the main codebase.
+
+## License
+
+This Currency Converter App is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code.

@@ -14,7 +14,7 @@ This simple Currency Converter application allows users to convert between diffe
 
 1. **Clone the Repository**:
    ```python
-   git clone https://github.com/your-username/currency-converter-app.git
+   git clone https://github.com/Athallah1234/Currency-Converter.git
    cd currency-converter-app
    ```
 2. **Install Dependencies**:
@@ -43,7 +43,7 @@ We welcome contributions from the community! To contribute to the Currency Conve
    - Click the "Fork" button at the top-right corner of this repository to create your own copy.
 2. **Clone Your Fork**:
    ```python
-   git clone https://github.com/your-username/currency-converter-app.git
+   git clone https://github.com/Athallah1234/Currency-Converter.git
    cd currency-converter-app
    ```
 3. **Create a Branch**:
